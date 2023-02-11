@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-Tic Tac Toe game [ multi-dimensional array using pointers ] with a trick to increase the performance around 45%.
+Tic Tac Toe game [ multi-dimensional array using pointers ] with a trick to increase the performance around 45%, the program won't go to check who is the winner untill the number of tries == rows + columns - 1.
 
 ### • make sure that you put the header file "MyLib.h" in the same project and then run the game.
 
@@ -12,3 +12,7 @@ You will be asked to enter the dimensions of the matrix - I put this condition [
 And the turn of the player O to choose too, and so on untill the matrix will be full or one of them win the game.
 
 ![image](https://user-images.githubusercontent.com/16564006/218283181-26a2dcb1-c275-40fe-b38f-1cd93dc31648.png)
+
+It's not allowed to put a position where is already reserved before.
+
+![image](https://user-images.githubusercontent.com/16564006/218283517-69306cce-971a-4005-adc6-9567aa925a21.png)
