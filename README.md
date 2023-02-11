@@ -16,3 +16,5 @@ And the turn of the player O to choose too, and so on untill the matrix will be 
 It's not allowed to put a position where is already reserved before.
 
 ![image](https://user-images.githubusercontent.com/16564006/218283517-69306cce-971a-4005-adc6-9567aa925a21.png)
+
+![image](https://user-images.githubusercontent.com/16564006/218283975-5297e2e8-84a9-48c0-83a5-a7e1a3b4f98b.png)
